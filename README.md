@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyrilQhetso
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently upskilling more both in Front-en and Back-end development
+- 🌱 I’m currently upskilling more both in Front-end and Back-end development
 - 💞️ I’m looking to collaborate on Angular and Java Projects
 - 📫 How to reach me ...
 
