@@ -6,7 +6,7 @@ I'm a passionate software engineer with a keen interest in both front-end and ba
 - 👀 **Interests**: Software engineering, web development, and open-source contributions.
 - 🌱 **Currently Learning**: Enhancing my skills in both front-end (Angular) and back-end (Java) development.
 - 💞️ **Looking to Collaborate On**: Angular and Java projects. I'm always open to new opportunities and collaborations.
-- 📫 **How to Reach Me**: You can connect with me on LinkedIn.
+- 📫 **How to Reach Me**: You can connect with me on [LinkedIn Profile](https://www.linkedin.com/in/tsoelopele-cyril-qhetso/).
 
 ## Skills
 - **Languages**: Java, JavaScript, TypeScript, HTML, CSS
