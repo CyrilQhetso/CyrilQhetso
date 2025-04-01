@@ -12,7 +12,7 @@ I'm a passionate software engineer with a keen interest in both front-end and ba
 - **Languages**: Java, JavaScript, TypeScript, HTML, CSS
 - **Frameworks**: Angular, Spring Boot
 - **Tools**: Git, Docker, Jenkins, VS Code
-- **Databases**: MySQL, MongoDB
+- **Databases**: PostgreSQL, MySQL, MongoDB
 
 ## Get in Touch
 Feel free to reach out if you want to discuss technology, collaboration, or any exciting project ideas!
